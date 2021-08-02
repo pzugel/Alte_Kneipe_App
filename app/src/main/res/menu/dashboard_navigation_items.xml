@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dashboard_konto_menu"
+            android:icon="@drawable/ic_konto_icon"
+            android:title="Konto" />
+        <item
+            android:id="@+id/dashboard_mitschriften_menu"
+            android:icon="@drawable/ic_mitschrift"
+            android:title="Mitschriften" />
+    </group>
+
+    <item android:title="Einstellungen">
+        <menu>
+            <item
+                android:id="@+id/dashboard_teilen_menu"
+                android:icon="@drawable/ic_send"
+                android:title="Teilen" />
+            <item
+                android:id="@+id/dashboard_logout_menu"
+                android:icon="@drawable/ic_login"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

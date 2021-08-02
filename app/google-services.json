@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396680726110",
+	"firebase_url": "https://altekneipe-96fb3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "altekneipe-96fb3",
+    "storage_bucket": "altekneipe-96fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396680726110:android:6a1c33c136d4e8de71d6cf",
+        "android_client_info": {
+          "package_name": "com.ffm.altekneipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396680726110-vovja5ej0o5281gnm7pu9o8an4k6qnj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PecywAcQsa-J31GnbsJhTCL4YqoIMJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396680726110-vovja5ej0o5281gnm7pu9o8an4k6qnj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
